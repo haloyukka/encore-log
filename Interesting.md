@@ -47,6 +47,6 @@
 
 ### Yunomi
 
-DJ WILDPARTY
+### DJ WILDPARTY
 
-YUC'e ゆーしえ
+### YUC'e ゆーしえ
