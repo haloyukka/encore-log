@@ -33,7 +33,7 @@
 
 ### MIX TOKYO DJ PARTY "NEO"
 
-* 2027/02/28 (日) 23:00 開場
+* 2027/02/27 (土) 23:00 開場
 * namcoTOKYO / ZEROTOKYO（東京都）
 
 > ※【Aチケット】のお客様はZEROTOKYOにて受付をお願い致します。<br>
