@@ -4,7 +4,6 @@ title: "初音ミク「マジカルミライ 2026」"
 year: 2026
 type: tour
 venues:
-
 * HAMAMATSU
 * OSAKA
 * TOKYO
