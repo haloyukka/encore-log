@@ -4,14 +4,14 @@ title: "初音ミク「マジカルミライ 2026」"
 year: 2026
 type: tour
 venues:
-* HAMAMATSU
-* OSAKA
-* TOKYO
-  tags:
-* vocaloid
-* hatsune-miku
-* magical-mirai
-* magical-mirai-2026
+  - HAMAMATSU
+  - OSAKA
+  - TOKYO
+tags:
+  - vocaloid
+  - hatsune-miku
+  - magical-mirai
+  - magical-mirai-2026
 
 ---
 
@@ -188,7 +188,7 @@ TOKYO
  ↕
 03  アンハッピーリフレイン
 
-06  あったかいと
+06  あっ���かいと
  ↕
 06  FLASH
 
